@@ -2,6 +2,13 @@
 Template of vscode remote development container
 
 ## dev container setup
+
+### Create new repository
+
+ページ右上にある、`Use this template`をクリックして、新しいリポジトリを作成してください。
+
+### 作成したリポジトリをクローン
+
 ### Remote Container 拡張機能のインストール
 
 Remote Containerをインストールしていない場合は、以下のページの「「Dev Container」用の拡張機能のインストール」を参照してください。
